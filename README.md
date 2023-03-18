@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielvoltani/)
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={gabrielvoltani}&theme=blue-green)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvoltani)](https://github.com/anuraghazra/github-readme-stats)
