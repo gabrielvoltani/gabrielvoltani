@@ -32,7 +32,7 @@ At the moment i'm studying Back-End which is the third of four modules of [Trybe
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielvoltani/)
 
-
+[![Envelope Icon](https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail)](mailto:gabriel.voltani@gmail.com)
 
 
  
