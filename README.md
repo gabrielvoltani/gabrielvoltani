@@ -1,9 +1,5 @@
 # Hello! I'm Gabriel Voltani ✌️
 
-### I’m looking for my first job opportunity in tech area !
-
-At the moment i'm studying Back-End which is the third of four modules of [Trybe](https://www.betrybe.com/), a programming school. I already completed the first one which was about web development fundamentals and the second one which was about Front-end.
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvoltani&theme=apprentice&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvoltani)
 
